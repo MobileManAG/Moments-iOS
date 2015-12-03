@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c483f09c-6154-524d-aa4b-745e40c6f19b++2961",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c483f09c-6154-524d-aa4b-745e40c6f19b++2961" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c483f09c-6154-524d-aa4b-745e40c6f19b++2961" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5FB18D6F-2263-44D1-A1E3-820604AB1F47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c483f09c-6154-524d-aa4b-745e40c6f19b++2961" : "iOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "moments",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "moments\/moments.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/mobileman3.nine.ch\/svn\/mobileman",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c483f09c-6154-524d-aa4b-745e40c6f19b++2961"
+    }
+  ]
+}
